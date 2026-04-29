@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Roman%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Web%20%7C%20AI%20Engineer&descSize=16&descAlignY=60&descColor=d0f5eb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Muhammad%20KRoman&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Web%20%7C%20AI%20Engineer&descSize=16&descAlignY=60&descColor=d0f5eb" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👋 Hi, I'm **Muhammad Roman **
+### 👋 Hi, I'm Muhammad Roman 
 #### 💻 Full-Stack App Developer &nbsp;|&nbsp; Web App Developer &nbsp;|&nbsp; AI Engineer
 
 🚀 Built **5+ scalable Web & Mobile Applications**
