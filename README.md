@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👋 Hi, I'm **Muhammad Roman Khan**
+### 👋 Hi, I'm **Muhammad Roman **
 #### 💻 Full-Stack App Developer &nbsp;|&nbsp; Web App Developer &nbsp;|&nbsp; AI Engineer
 
 🚀 Built **5+ scalable Web & Mobile Applications**
