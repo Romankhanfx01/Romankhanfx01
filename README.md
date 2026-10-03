@@ -1,145 +1,176 @@
-# Hi, I'm Muhammad Roman 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F6FEB,50:7C3AED,100:0F172A&section=header&text=Muhammad%20Roman&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30" alt="Header"/>
+</div>
 
-**AI Systems Architect & Cross-Platform Mobile Engineer**
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=AI+Systems+Architect+%7C+Full-Stack+Engineer;Cross-Platform+Mobile+Developer+%7C+Flutter+Expert;Building+Agentic+AI+Systems+%26+Scalable+Products;Turning+Ideas+Into+Production-Ready+Solutions" alt="Typing SVG" />
+</h1>
 
-I build scalable, production-grade AI systems, LLM-powered tools, and cross-platform mobile/web applications. Focused on solving real business problems with clean, maintainable code.
+<div align="center">
+  <a href="https://romankhanfx01.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-roman-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Muhammadroman_7"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:romankhan7475@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Romankhanfx01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/923370333600"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-1F6FEB?logo=chrome&logoColor=white)](https://romankhanfx01.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-roman-dev/)
-[![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/Muhammadroman_7)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:romankhan7475@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/Romankhanfx01)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Romankhanfx01&style=for-the-badge&color=1F6FEB" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Romankhanfx01?style=for-the-badge&color=7C3AED&logo=github" alt="Followers" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🚀 Building **agentic AI systems**, **RAG pipelines**, and **intelligent automation** for real-world use cases
-- 📱 Developing **Flutter** apps with clean architecture, robust state management & pixel-perfect UI/UX
-- 🧠 Working with **LLMs**, **Computer Vision**, and **Applied AI** to turn data into actionable solutions
-- ⚡ Writing scalable backend logic, REST APIs & database schemas for production systems
-- 🤝 Open to **full-time roles**, **contract work**, and **technical collaborations**
-- 📍 Based in **Peshawar, Pakistan**
+I'm a results-driven **AI Systems Architect & Cross-Platform Mobile Engineer** who thrives on building scalable, intelligent products that solve real business problems. I specialize in designing agentic AI workflows, developing high-performance Flutter applications, and engineering production-ready backend systems with a strong focus on performance, maintainability, and clean architecture.
+
+- 🧠 **AI-First Engineer** – Designing and building **Agentic AI Systems, RAG Pipelines & LLM Tooling** that automate complex workflows.
+- 📱 **Mobile Specialist** – Crafting buttery-smooth **Flutter** apps with MVVM/Clean Architecture, offline-first support, and seamless UX across iOS & Android.
+- ⚙️ **Full-Stack Architect** – Building scalable APIs, robust databases, and cloud-native solutions built for scale.
+- 🛠️ **Builder Mindset** – I don't just prototype — I ship, test, monitor and iterate to production-grade quality.
+- 🎯 **Business-Oriented** – Focused on delivering measurable value, reducing friction, and accelerating time-to-market.
+- 📍 **Location** – Peshawar, Pakistan | Open to **Full-Time, Contract & Remote Opportunities**.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Arsenal
 
-### Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,kotlin,java,cpp,cs,php,html,css&theme=dark" />
+</p>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+### Frameworks, Libraries & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,flutter,laravel,django,dotnet,bootstrap,tailwind,vite&theme=dark" />
+</p>
 
 ### Cloud, Databases & DevOps
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgres,sqlite,aws,azure,gcp,vercel,netlify,docker,git,githubactions,linux&theme=dark" />
+</p>
 
-### AI, Data & Design
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+### AI, ML & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,figma,canva&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **[Halal-Guard](https://github.com/Romankhanfx01/Halal-Guard)** | YOLOv8-powered food detection app that flags non-halal ingredients & suggests halal alternatives. | Flutter Firebase YOLOv8 Python |
-| **[world-news-channel-](https://github.com/Romankhanfx01/world-news-channel-)** | LangChain news agent with Streamlit UI for real-time, summarized news delivery. | Python LangChain Streamlit OpenAI |
-| **[task-manager](https://github.com/Romankhanfx01/task-manager)** | Clean, production-ready Flutter task manager with Firebase auth & real-time sync. | Flutter Dart Firebase |
-| **[taar-clone-creative](https://github.com/Romankhanfx01/taar-clone-creative)** | TypeScript/React UI with structured MySQL schema for scalable business logic. | TypeScript React MySQL |
-| **[portfolio](https://github.com/Romankhanfx01/portfolio)** | SEO-optimized, lightning-fast personal portfolio deployed on GitHub Pages. | HTML5 CSS3 JavaScript SEO |
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Halal-Guard</h3>
+        <div align="center">
+          <a href="https://github.com/Romankhanfx01/Halal-Guard" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <p>Flutter + Firebase app powered by YOLOv8 to detect non-halal ingredients in food & suggest safe halal alternatives. Built for real-world impact with on-device intelligence.</p>
+          <p><strong>Tech:</strong> Flutter • Firebase • YOLOv8 • Python • Computer Vision</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">World News Channel</h3>
+        <div align="center">
+          <a href="https://github.com/Romankhanfx01/world-news-channel-" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <p>LangChain-powered AI news agent with a clean Streamlit UI. Fetches, filters, summarizes & streams real-time global news with contextual intelligence.</p>
+          <p><strong>Tech:</strong> Python • LangChain • Streamlit • LLMs • RAG</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Task Manager</h3>
+        <div align="center">
+          <a href="https://github.com/Romankhanfx01/task-manager" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <p>Production-ready Flutter task manager with Firebase Auth, Firestore sync, offline-first support, clean architecture & modern minimalist UI.</p>
+          <p><strong>Tech:</strong> Flutter • Dart • Firebase • Clean Architecture</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Taar Clone Creative</h3>
+        <div align="center">
+          <a href="https://github.com/Romankhanfx01/taar-clone-creative" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <p>Scalable TypeScript + React front-end with a well-structured, documented MySQL schema — built with reusability, maintainability & performance in mind.</p>
+          <p><strong>Tech:</strong> TypeScript • React • MySQL • REST APIs</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3 align="center">Personal Portfolio</h3>
+        <div align="center">
+          <a href="https://romankhanfx01.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+          <a href="https://github.com/Romankhanfx01/portfolio" target="_blank"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <p>Ultra-fast, SEO-optimized, accessible portfolio built with vanilla HTML/CSS/JS. Lighthouse-optimized, responsive, and deployed on GitHub Pages.</p>
+          <p><strong>Tech:</strong> HTML5 • CSS3 • JavaScript • SEO • Performance</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📈 Contribution Dashboard
+## 📊 Contribution Analytics
 
 <div align="center">
-
-![GitHub Contribution Snake](https://github.com/Romankhanfx01/Romankhanfx01/blob/output/github-contribution-grid-snake-dark.svg?raw=true#gh-dark-mode-only)
-![GitHub Contribution Snake](https://github.com/Romankhanfx01/Romankhanfx01/blob/output/github-contribution-grid-snake.svg?raw=true#gh-light-mode-only)
-
+  <img src="https://github.com/Romankhanfx01/Romankhanfx01/blob/output/github-contribution-grid-snake-dark.svg?raw=true#gh-dark-mode-only" width="100%" />
+  <img src="https://github.com/Romankhanfx01/Romankhanfx01/blob/output/github-contribution-grid-snake.svg?raw=true#gh-light-mode-only" width="100%" />
 </div>
 
+<br>
+
 <div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romankhanfx01&theme=github_dark)
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Romankhanfx01&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Romankhanfx01&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Romankhanfx01&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Romankhanfx01&theme=github_dark&utcOffset=5)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romankhanfx01&theme=radical" width="100%"/>
 </div>
 
+<br>
+
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romankhanfx01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Romankhanfx01&theme=tokyonight&hide_border=true)
-
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Romankhanfx01&theme=radical"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Romankhanfx01&theme=radical"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Romankhanfx01&theme=radical"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Romankhanfx01&theme=radical&utcOffset=300"/>
 </div>
 
+<br>
+
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romankhanfx01&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=12)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Romankhanfx01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Romankhanfx01&theme=radical&hide_border=true" />
 </div>
 
+<br>
+
 <div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Romankhanfx01&theme=tokyonight&no-frame=true&row=1&column=7)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romankhanfx01&layout=donut&theme=radical&hide_border=true&langs_count=12" width="60%"/>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Romankhanfx01&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Romankhanfx01&theme=radical&no-frame=false&row=2&column=8&margin-w=10&margin-h=10" width="100%"/>
 </div>
 
 ---
 
-## 📬 Get In Touch
+## 🤝 Let's Work Together
 
-Looking for a reliable developer to turn your vision into reality? Let's talk.
-
-**[Portfolio](https://romankhanfx01.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/muhammad-roman-dev/) • [X (Twitter)](https://x.com/Muhammadroman_7) • [Email](mailto:romankhan7475@gmail.com)**
+I'm always open to building meaningful products, solving complex problems, or joining teams where I can add real engineering value. If you're working on something exciting, I'd love to connect and collaborate.
 
 <div align="center">
-  <sub>⚡ Turning ideas into scalable digital products | Clean Code • Scalable Systems • Real Results</sub>
+  <a href="https://romankhanfx01.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Explore_My_Work-1F6FEB?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-roman-dev/" target="_blank"><img src="https://img.shields.io/badge/Hire_Me_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:romankhan7475@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:1F6FEB,50:7C3AED,100:0F172A&section=footer&text=Thanks+for+Visiting!&fontSize=14&fontColor=FFFFFF&animation=fadeIn" alt="Footer"/>
 </div>
