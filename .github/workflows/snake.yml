@@ -1,32 +1,84 @@
-name: Generate Snake
+# 🐍 Solar Snake — keeps the profile contribution snake in sync with the cosmos.
+#
+# · Regenerates the light + dark snakes twice a day (off-the-hour cron).
+# · Re-runs whenever this workflow file changes, or manually via the UI.
+# · Publishes the SVGs to the `output` branch, where the profile README
+#   picks them up through raw.githubusercontent.com.
+#
+# Optional: add a repo secret named SNK_TOKEN (classic PAT with `read:user`)
+# to include private contributions in the snake. Without it, the workflow
+# falls back to the default GITHUB_TOKEN automatically.
+
+name: 🐍 Solar Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # Off-the-hour minutes: GitHub queues many jobs at :00, which delays runs.
+    - cron: "17 0 * * *"   # daily · 00:17 UTC
+    - cron: "17 12 * * *"  # daily · 12:17 UTC
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
   workflow_dispatch:
+
+# Never run two generators at once — queue the new one instead of cancelling.
+concurrency:
+  group: solar-snake
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  snake:
+    name: Generate & publish snake
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    timeout-minutes: 15
 
-      - name: Generate Snake
+    steps:
+      - name: 🐍 Generate light + dark snakes
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Romankhanfx01
+          # Private-contribution token if provided, otherwise the default token.
+          github_token: ${{ secrets.SNK_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#F59E0B&color_dots=#ebedf5,#c9d8f0,#8fb5e3,#4F9DEB,#1E3A8A
             dist/github-contribution-grid-snake-dark.svg?color_snake=#FBBF24&color_dots=#0b1026,#123a66,#1f5fa8,#4f9deb,#FBBF24
 
-      - name: Push to output branch
+      - name: ✅ Verify output SVGs exist
+        run: |
+          set -euo pipefail
+          for f in dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg; do
+            test -s "$f" || { echo "::error::missing or empty: $f"; exit 1; }
+          done
+          ls -lh dist
+
+      - name: 🚀 Publish to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "🐍 chore(snake): regenerate contribution grid [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📋 Run summary
+        if: always()
+        run: |
+          {
+            echo "### 🐍 Solar snake regeneration"
+            echo
+            if ls dist/*.svg >/dev/null 2>&1; then
+              echo "| Output file | Size |"
+              echo "| --- | --- |"
+              for f in dist/*.svg; do
+                echo "| \`$f\` | $(du -h "$f" | cut -f1) |"
+              done
+            else
+              echo "⚠️ No SVGs were generated — check the steps above."
+            fi
+            echo
+            echo "Published branch → ${{ github.server_url }}/${{ github.repository }}/tree/output"
+          } >> "$GITHUB_STEP_SUMMARY"
