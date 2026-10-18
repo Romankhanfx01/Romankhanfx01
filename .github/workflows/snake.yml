@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: Romankhanfx01
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#F59E0B&color_dots=#ebedf5,#c9d8f0,#8fb5e3,#4F9DEB,#1E3A8A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FBBF24&color_dots=#0b1026,#123a66,#1f5fa8,#4f9deb,#FBBF24
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
