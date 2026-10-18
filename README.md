@@ -15,6 +15,12 @@
   <a href="https://wa.me/923370333600"><img src="https://img.shields.io/badge/WhatsApp-0B1026?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2EA043?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Romankhanfx01&style=for-the-badge&color=4F9DEB&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Romankhanfx01?style=for-the-badge&color=4F9DEB&labelColor=0B1026" />
+</p>
+
 </div>
 
 <img src="./assets/space-divider.svg" width="100%" alt="" />
@@ -29,6 +35,16 @@ Hey — I'm **Muhammad Roman**, a practical **AI Engineer** and **Software Devel
 - 💡 Focused on readable code, simple architecture, and real results
 - 🤝 Open to **freelance**, **remote** or **full-time** opportunities
 - 📍 Based in **Peshawar, Pakistan**
+
+<img src="./assets/space-divider.svg" width="100%" alt="" />
+
+<h2>🧩 What I Build</h2>
+
+|  | Area | I turn ideas into |
+|---|---|---|
+| 🤖 | **AI Systems** | LLM apps, **RAG** pipelines & computer-vision models (**YOLOv8**) |
+| 📱 | **Mobile Apps** | **Flutter** apps that feel native on every platform |
+| 🌐 | **Full-Stack Products** | Web apps, dashboards & APIs — from database to deploy |
 
 <img src="./assets/space-divider.svg" width="100%" alt="" />
 
@@ -69,7 +85,29 @@ Hey — I'm **Muhammad Roman**, a practical **AI Engineer** and **Software Devel
 
 <img src="./assets/space-divider.svg" width="100%" alt="" />
 
+<h2>🛰️ Current Trajectory</h2>
+
+<img src="./assets/trajectory.svg" width="100%" alt="Career trajectory — flight path: now, next, goal, beyond" />
+
+<p align="center"><i>From first Flutter screen to production AI systems — steady orbit, continuously improving.</i></p>
+
+<img src="./assets/space-divider.svg" width="100%" alt="" />
+
 <h2>🚀 Featured Missions</h2>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romankhanfx01&repo=Halal-Guard&bg_color=0B1026&title_color=4F9DEB&text_color=C9D6EA&icon_color=FBBF24&border_color=1E3A8A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romankhanfx01&repo=world-news-channel-&bg_color=0B1026&title_color=4F9DEB&text_color=C9D6EA&icon_color=FBBF24&border_color=1E3A8A" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romankhanfx01&repo=task-manager&bg_color=0B1026&title_color=4F9DEB&text_color=C9D6EA&icon_color=FBBF24&border_color=1E3A8A" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Romankhanfx01&repo=taar-clone-creative&bg_color=0B1026&title_color=4F9DEB&text_color=C9D6EA&icon_color=FBBF24&border_color=1E3A8A" width="48%" />
+
+</div>
+
+<details>
+<summary>📁 <b>Full mission archive</b> — every project, at a glance</summary>
+<br/>
 
 | 🛰️ Mission | What it does | Tech |
 |---|---|---|
@@ -78,6 +116,18 @@ Hey — I'm **Muhammad Roman**, a practical **AI Engineer** and **Software Devel
 | **[task-manager](https://github.com/Romankhanfx01/task-manager)** | Clean Flutter task app with auth, lists & real-time sync | Flutter • Dart • Firebase |
 | **[taar-clone-creative](https://github.com/Romankhanfx01/taar-clone-creative)** | Modern React + TypeScript UI with MySQL backend structure | TypeScript • React • MySQL |
 | **[portfolio](https://romankhanfx01.github.io/portfolio/)** | Minimal personal portfolio built to showcase my work | HTML • CSS • JavaScript |
+
+</details>
+
+<img src="./assets/space-divider.svg" width="100%" alt="" />
+
+<h2>⚡ How I Work</h2>
+
+- 🧱 **Working beats perfect** — ship small, iterate fast, learn from real usage
+- 📖 **Readable code over clever code** — future me is a teammate too
+- 🧭 **Simple architecture first** — scale it when it actually hurts
+- 📏 **Measure, don't guess** — let data make the decisions
+- 🎯 **Build for real users** — every project solves a real, everyday problem
 
 <img src="./assets/space-divider.svg" width="100%" alt="" />
 
@@ -90,6 +140,9 @@ Hey — I'm **Muhammad Roman**, a practical **AI Engineer** and **Software Devel
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romankhanfx01&layout=compact&langs_count=8&bg_color=0B1026&title_color=4F9DEB&text_color=C9D6EA&border_color=1E3A8A" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Romankhanfx01&theme=tokyonight" width="48%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Romankhanfx01&theme=tokyonight&utcOffset=5" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Romankhanfx01&theme=tokyonight" width="48%" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romankhanfx01&theme=tokyonight" width="95%" />
 
@@ -109,9 +162,13 @@ Hey — I'm **Muhammad Roman**, a practical **AI Engineer** and **Software Devel
 
 <h2>🛸 Open a Channel</h2>
 
-Got an idea, a project, or just want to talk? My inbox is always open.
+<p align="center">Got an idea, a project, or just want to talk? My inbox is always open.</p>
 
 <div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="82%" alt="Dev quote" />
+
+  <br/>
 
   <a href="https://romankhanfx01.github.io/portfolio/"><img src="https://img.shields.io/badge/Visit%20Portfolio-4F9DEB?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
   <a href="mailto:romankhan7475@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>

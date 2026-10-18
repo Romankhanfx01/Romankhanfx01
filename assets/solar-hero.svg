@@ -59,6 +59,10 @@
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#9BD4FF" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="tail2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="-60" y2="0">
+      <stop offset="0" stop-color="#E9D5FF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
     <clipPath id="heroClip"><rect width="1400" height="360" rx="18"/></clipPath>
     <clipPath id="earthClip"><circle r="13"/></clipPath>
     <clipPath id="jupClip"><circle r="24"/></clipPath>
@@ -161,6 +165,7 @@
     <ellipse cx="180" cy="180" rx="420" ry="88" fill="none" stroke="#3B6FB5" stroke-width="1.2" opacity="0.28" stroke-dasharray="3 11">
       <animate attributeName="stroke-dashoffset" from="0" to="-28" dur="7s" repeatCount="indefinite"/>
     </ellipse>
+    <ellipse cx="180" cy="180" rx="590" ry="112" fill="none" stroke="#7C93BC" stroke-width="2.4" stroke-dasharray="0.5 20" stroke-linecap="round" opacity="0.30"/>
     <ellipse cx="180" cy="180" rx="760" ry="140" fill="none" stroke="#3B6FB5" stroke-width="1.1" opacity="0.20"/>
     <ellipse cx="180" cy="180" rx="1120" ry="205" fill="none" stroke="#3B6FB5" stroke-width="1" opacity="0.16"/>
 
@@ -224,7 +229,7 @@
       <circle r="11" fill="url(#pNep)"/>
     </g>
 
-    <!-- comet -->
+    <!-- comet 1 -->
     <g>
       <animateMotion dur="14s" repeatCount="indefinite" rotate="auto" path="M1380 30 Q 950 90 600 225"/>
       <g>
@@ -232,6 +237,17 @@
         <line x1="0" y1="0" x2="-78" y2="0" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/>
         <circle r="6" fill="#9BD4FF" opacity="0.35"/>
         <circle r="2.6" fill="#FFFFFF"/>
+      </g>
+    </g>
+
+    <!-- comet 2 -->
+    <g>
+      <animateMotion dur="19s" begin="7s" repeatCount="indefinite" rotate="auto" path="M260 355 Q 860 290 1380 80"/>
+      <g>
+        <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.12;0.85;1" dur="19s" begin="7s" repeatCount="indefinite"/>
+        <line x1="0" y1="0" x2="-60" y2="0" stroke="url(#tail2)" stroke-width="1.6" stroke-linecap="round"/>
+        <circle r="5" fill="#C4B5FD" opacity="0.3"/>
+        <circle r="2" fill="#FFFFFF"/>
       </g>
     </g>
   </g>
