@@ -17,8 +17,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to%20Work-2EA043?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Romankhanfx01&style=for-the-badge&color=4F9DEB&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Romankhanfx01?style=for-the-badge&color=4F9DEB&labelColor=0B1026" />
+  <img src="https://hits.sh/github.com/Romankhanfx01.svg?style=for-the-badge&label=PROFILE+VIEWS&color=4F9DEB&labelColor=0B1026" />
+  <img src="https://img.shields.io/badge/Based%20in-Peshawar%2C%20Pakistan-0B1026?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1E3A8A" />
 </p>
 
 </div>
